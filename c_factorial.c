@@ -21,6 +21,10 @@ int main() {
     printf("The sum of factorials from 0 to %d is: %d\n", n, result);
     return 0;
 }
+
+// added changes
+
+
 // calculate the factorial of the number
 long long factorial(int num) {
     long long fact = 1;
